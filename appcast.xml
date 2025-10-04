@@ -3,19 +3,19 @@
     <channel>
         <title>Proxy Manager</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.1.0</title>
             <pubDate>Sat, 4 Oct 2025 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>
-                https://ffinnis.github.io/proxy-manager-release/1.0.0.html
+                https://ffinnis.github.io/proxy-manager-release/1.1.0.html
             </sparkle:releaseNotesLink>
             <enclosure
-                url="https://github.com/ffinnis/proxy-manager-release/releases/download/v1.0.0/proxy-manager.zip"
+                url="https://github.com/ffinnis/proxy-manager-release/releases/download/v1.1.0/proxy-manager.zip"
                 sparkle:version="1.0.0"
                 sparkle:shortVersionString="1.0"
-                length="1489452"
+                length="1490022"
                 type="application/octet-stream"
-                sparkle:edSignature="GwGtcMVt1LqZpZBrsbqojknBjo0pp5UPo/47JyaRBXY9zZe7xqNf9lGSyeg9GXCjRs46ml+YVYfG2gsNzZ9eDg=="/>
+                sparkle:edSignature="CI0yHU9p7d1WEcjoGfKwOxQFCjN/bDUkGaUGvmdRMBNX0RMpTCIb2GKCAsWm9g5iAwy7JOTA9AgYsb4UjjphAQ=="/>
         </item>
     </channel>
 </rss>
