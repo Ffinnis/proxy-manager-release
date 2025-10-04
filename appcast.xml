@@ -7,10 +7,10 @@
             <pubDate>Sat, 4 Oct 2025 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>
-                https://ffinnis.github.io/proxy-manager/releases/1.0.0.html
+                https://ffinnis.github.io/proxy-manager-release/1.0.0.html
             </sparkle:releaseNotesLink>
             <enclosure
-                url="https://github.com/ffinnis/proxy-manager/releases/download/v1.0.0/proxy-manager.zip"
+                url="https://github.com/ffinnis/proxy-manager-release/releases/download/v1.0.0/proxy-manager.zip"
                 sparkle:version="1.0.0"
                 sparkle:shortVersionString="1.0"
                 length="1489452"
