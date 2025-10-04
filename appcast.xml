@@ -10,7 +10,7 @@
                 https://ffinnis.github.io/proxy-manager-release/1.1.0.html
             </sparkle:releaseNotesLink>
             <enclosure
-                url="https://github.com/ffinnis/proxy-manager-release/releases/download/v1.1.0/proxy-manager.zip"
+                url="https://github.com/Ffinnis/proxy-manager-release/releases/download/1.1.0/proxy-manager.zip"
                 sparkle:version="1.0.0"
                 sparkle:shortVersionString="1.0"
                 length="1490022"
