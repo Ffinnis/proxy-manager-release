@@ -3,7 +3,7 @@
     <channel>
         <title>Proxy Manager</title>
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 1.0.0</title>
             <pubDate>Sat, 5 Oct 2025 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>
@@ -11,7 +11,7 @@
             </sparkle:releaseNotesLink>
             <enclosure
                 url="https://github.com/Ffinnis/proxy-manager-release/releases/download/1.0.0/proxy-manager.zip"
-                sparkle:version="1.0.0 (1)"
+                sparkle:version="1"
                 sparkle:shortVersionString="1.0.0"
                 length="1490016"
                 type="application/octet-stream"
