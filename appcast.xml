@@ -11,8 +11,8 @@
             </sparkle:releaseNotesLink>
             <enclosure
                 url="https://github.com/Ffinnis/proxy-manager-release/releases/download/1.0.1/proxy-manager.zip"
-                sparkle:version="1"
-                sparkle:shortVersionString="1.0.1"
+                sparkle:version="1.0.1"
+                sparkle:shortVersionString="1"
                 length="1489448"
                 type="application/octet-stream"
                 sparkle:edSignature="DmTWVdUtyMCXohWJs9023DwSale0mDzanH/4GuP5QUQTrT/d62FiDaV+Vpb/YfShbKUvTuAGmU+7BYmxwCO/Aw=="/>
